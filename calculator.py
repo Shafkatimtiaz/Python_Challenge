@@ -1,4 +1,4 @@
-#WAP to Input Two Numbeers and Print There Addition,Subtraction,Multiplication,Division,square,cube.
+#WAP to Input Two Integers and Print There Addition,Subtraction,Multiplication,Division,square,cube.
 number_1=int(input("Enter The 1st Number :-"))
 number_2=int(input("Enter The 2nd Number :-"))
 print(f"Addition of {number_1} & {number_2} is {number_1 + number_2}")
